@@ -18,6 +18,16 @@
   width: 1500px;
 }
 
+.side-class{
+  height: 500px;
+  width: 500px;
+}
+
+.side-container{
+  display: flex;
+  flex-direction: row;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
